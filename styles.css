@@ -628,7 +628,7 @@ input[type="submit"]:hover{
 
     .section__boost-link{
         background: var(--Dark-Violet) url('./images/bg-boost-desktop.svg') no-repeat center center;
-        height: 150px;
+        height: auto;
     }
 
     .footer-logo{
