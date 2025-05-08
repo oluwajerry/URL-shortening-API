@@ -63,8 +63,12 @@ nav{
     
 
     h1{
-        font-size: 1.5rem;
+        font-size: 2rem;
         margin-top: 1rem;
+        background:radial-gradient(var(--Cyan), var(--Dark-Violet));
+        background-clip: text;
+        color: transparent;
+        padding: 0 1rem;
     }
     p{
         font-size: 1.2rem;
